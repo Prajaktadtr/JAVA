@@ -1,0 +1,7 @@
+/*Construct an AWT Frame with required UI and perform the following
+1. Read a String to
+ * Print Reverse
+ * Find no of vowels and consonants
+ * Change case of a String
+ * Four digit no need to be convert to alphabets i.e. 1234 o/p One Two Three Four*/
+ 
